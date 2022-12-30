@@ -9,7 +9,7 @@ function getButtonName(){
 }
 
 const App = ()=>{
-    const name= {text: 'Click Me'};
+    const name= {text: 'Hello Me'};
     return (
         <div>
             <label htmlFor="name">Enter name</label>      
